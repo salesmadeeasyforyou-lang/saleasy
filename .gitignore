@@ -1,0 +1,16 @@
+# Claude Code
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Environment
+.env
+.env.local
+.env.*.local
